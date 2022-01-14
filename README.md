@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/stars/PAPAMICA?label=%E2%AD%90%20Github&style=for-the-badge" alt="papamica__" /></a>
 <a href="https://www.youtube.com/c/PAPAMICA" target="blank">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCRfh_cUHWYCDpQ64lp8l2Sg?logo=youtube&style=for-the-badge"></a>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=onedark&column=8" alt="papamica" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=onedark&column=7" alt="papamica" /></a> 
 </p>  
 
 <h2> About Me <img src='https://cdn.dribbble.com/users/2933921/screenshots/7116891/media/e72b9fd3cb320b04a3c0dba48d06d80b.gif' width="60px"></h2>
