@@ -19,7 +19,7 @@
 <h2> About Me <img src='https://cdn.dribbble.com/users/2933921/screenshots/7116891/media/e72b9fd3cb320b04a3c0dba48d06d80b.gif' width="60px"></h2>
 
   
-- 🌱 I’m currently learning **OpenStack, Kubernetes and Python**  
+- 🌱 I’m currently learning **OpenStack, K8s and Python**  
   
 - 🔭 I’m currently working on [Wiki-Tech](wiki-tech.io)  
   
