@@ -66,7 +66,7 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papamica&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="papamica" /></p>  
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&bg_color=0d1117&text_color=ffffff" alt="papamica" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&theme=dark&background=0d1117" alt="papamica" /></p>
 
 <div align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
