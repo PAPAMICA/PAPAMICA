@@ -43,9 +43,7 @@
 <a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/PAPAMICA_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael_Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
  </br>
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
@@ -64,9 +62,7 @@
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
  
   </br>
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
   <h2> Operating System <img src = "
 https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -77,16 +73,12 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
 <h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s" width = 32px> </h2>
 <p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
  
  <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 
