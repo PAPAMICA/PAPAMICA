@@ -55,7 +55,7 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Office](https://img.shields.io/badge/office-suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
+![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
  
   </br>
   <h2> Operating System <img src = "
