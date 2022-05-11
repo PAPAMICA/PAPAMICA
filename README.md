@@ -36,9 +36,9 @@
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-![Twitter](https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1B1B1F?link=https://twitter.com/papamica__)
-![Linkedin](https://img.shields.io/badge/Mickael-Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=1B1B1F?link=https://www.linkedin.com/in/mickael-asseline/)
-![Youtube](https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=1B1B1F?link=https://www.youtube.com/c/papamica)
+![Twitter](https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white?link=https://twitter.com/papamica__&link=https://twitter.com/papamica__)
+![Linkedin](https://img.shields.io/badge/Mickael-Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/mickael-asseline/&link=https://www.linkedin.com/in/mickael-asseline/)
+![Youtube](https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white?link=https://www.youtube.com/c/papamica&link=https://www.youtube.com/c/papamica)
 
 
 
