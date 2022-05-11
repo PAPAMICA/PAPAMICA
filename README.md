@@ -39,7 +39,8 @@
 <a href="https://linkedin.com/in/mickael-asseline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael-asseline" height="50" width="60" /></a>  
 <a href="https://www.youtube.com/c/papamica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="papamica" height="50" width="60" /></a>  
 </p>  
-  
+
+<div align="center">
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
@@ -69,6 +70,6 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&theme=dark&background=0d1117" alt="papamica" /></p>
 
-<div align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
 </div>
+ 
