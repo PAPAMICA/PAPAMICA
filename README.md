@@ -39,7 +39,7 @@
 
 <a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael-Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-
+ </br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
@@ -57,6 +57,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Office](https://img.shields.io/badge/office-suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
  
+  </br>
   <h2> Operating System <img src = "
 https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
