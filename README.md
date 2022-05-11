@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Mickael Asseline (Alias PAPAMICA)</h1>
 <p align="center">
-  <a href="https://papamica.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+Wiki-Tech.io;Quick+fox+jumps+nightly+above+wizard"></a>
+  <a href="https://papamica.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+Wiki-Tech.io;"></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/papamica__" target="blank">
