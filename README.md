@@ -12,8 +12,8 @@
 <a href="https://github.com/PAPAMICA" target="blank">
 <img src="https://img.shields.io/github/stars/PAPAMICA?label=%E2%AD%90%20Github&style=for-the-badge" alt="papamica__" /></a>
 <a href="https://www.youtube.com/c/PAPAMICA" target="blank">
-  </br>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCRfh_cUHWYCDpQ64lp8l2Sg?logo=youtube&style=for-the-badge"></a>
+    </br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
 </p>  
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px" alt="papamica" /></p>
