@@ -35,31 +35,39 @@
  
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">  
-<a href="https://twitter.com/papamica__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="papamica__" height="50" width="60" /></a>  
-<a href="https://linkedin.com/in/mickael-asseline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael-asseline" height="50" width="60" /></a>  
-<a href="https://www.youtube.com/c/papamica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="papamica" height="50" width="60" /></a>  
-</p>  
+
+![Twitter](https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1B1B1F?link=https://twitter.com/papamica__)
+![Linkedin](https://img.shields.io/badge/Mickael-Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=1B1B1F?link=https://www.linkedin.com/in/mickael-asseline/)
+![Youtube](https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=1B1B1F?link=https://www.youtube.com/c/papamica)
+
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
+![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 ![Python](https://img.shields.io/badge/python-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/openstack-%23ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![vmware](https://img.shields.io/badge/ESXi-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/zabbix-%23CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Office](https://img.shields.io/badge/office-suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
  
   <h2> Operating System <img src = "
 https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-   <a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="MacOS" width="60" height="60"/> </a>
-   <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/debian.svg" alt="Debian" width="60" height="60"/> </a> 
-    <a href="https://www.manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://manjaro.org/img/logo.svg" alt="Manjaro" width="60" height="60"/> </a> 
-   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows" width="60" height="60"/> </a>
+
+![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
+![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=Archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
   
 
 <h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s" width = 32px> </h2>
