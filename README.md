@@ -79,7 +79,7 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&theme=dark&background=0d1117" alt="papamica" /></p>
 
 
-[![PAPAMICA Activity Graph](https://activity-graph.herokuapp.com/graph?username=PAPAMICA&custom_title=PAPAMICA's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=27e8a7)](https://papamica.com)
+[![PAPAMICA Activity Graph](https://activity-graph.herokuapp.com/graph?username=PAPAMICA&custom_title=PAPAMICA's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=A0BDFE)](https://papamica.com)
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
 </div>
