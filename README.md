@@ -71,11 +71,6 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=Archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
-
-<h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s" width = 32px> </h2>
-<p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
  
  <br>
 
@@ -92,6 +87,12 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
 <br>
 
 [![PAPAMICA Activity Graph](https://activity-graph.herokuapp.com/graph?username=PAPAMICA&custom_title=PAPAMICA's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=A0BDFE)](https://papamica.com)
+
+
+<br>
+
+<h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s" width = 32px> </h2>
+<p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
 </div>
