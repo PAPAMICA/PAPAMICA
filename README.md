@@ -77,7 +77,7 @@ https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1b
 <br/>
 <p align="left">
   <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=papamica&show_icons=true&locale=en&bg_color=0D1117&text_color=58A6FF&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=papamica&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&theme=dark&background=0D1117&hide_border=true" />
   </a>
 </p>
