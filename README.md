@@ -20,7 +20,7 @@
   
 - 🌱 I’m currently learning **OpenStack, Kubernetes and Python**  
   
-- 🔭 I’m currently working and 🤝 I’m looking for help with [Wiki-Tech](wiki-tech.io)  
+- 🔭 I’m currently working on [Wiki-Tech](wiki-tech.io)  
   
 - 👨‍💻 All of my projects are available at [papamica.com](papamica.com)  
   
