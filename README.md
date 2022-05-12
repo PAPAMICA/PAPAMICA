@@ -67,7 +67,7 @@
   <h2> Operating System <img src = "
 https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=Archlinux&logoColor=white)
