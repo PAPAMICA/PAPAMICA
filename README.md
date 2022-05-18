@@ -17,7 +17,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
 </p>  
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px" alt="papamica" /></p>
-<h2> About Me <img src='https://user-images.githubusercontent.com/29079741/169149584-f21f6831-7dfb-4913-af9c-27d3d88dbab4.png' width="60px"></h2>
+<h2> About Me<img align="center" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
 
   
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
@@ -64,8 +64,7 @@
  
   </br>
 
-  <h2> Operating System <img src = "
-https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  <h2> Operating System <img src = "https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60"> </h2>
 
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
