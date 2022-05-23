@@ -16,10 +16,10 @@
     </br> </br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
 </p>  
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px" alt="papamica" /></p>
+<h2> About Me<img align="center" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
 
-<h2> About Me</h2>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="papamica">  </p>
-
+  
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
   
 - 🔭 I’m currently working on [Wiki-Tech](wiki-tech.io)  
@@ -32,9 +32,8 @@
   
 - 📫 How to reach me **mickael@papamica.com**  
   
-- 📄 Know about my experiences [mickaelasseline.com](mickaelasseline.com)
-
-
+- 📄 Know about my experiences [mickaelasseline.com](mickaelasseline.com)  
+ 
  </br></br>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
