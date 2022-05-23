@@ -19,7 +19,7 @@
 
 <h2> About Me<img align="left" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50px" width="60px" /></h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="49%" alt="papamica" /></p>
-<p align="right">  
+<p align="left">  
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
   
 - 🔭 I’m currently working on [Wiki-Tech](wiki-tech.io)  
