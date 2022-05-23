@@ -18,7 +18,7 @@
 </p>  
 
 <h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
-<p align="right"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="49%" alt="papamica" /></p>
+<p align="right"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="49%" alt="papamica" /></p>
 <p align="left">
   
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
