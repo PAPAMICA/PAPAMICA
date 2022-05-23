@@ -17,7 +17,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
 </p>  
 
-<h2> About Me<img align="left" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50px" width="60px" /></h2>
+<h2> About Me</h2>
 <p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="papamica">
 
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
