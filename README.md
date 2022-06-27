@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="https://send.papamica.fr/f.php?h=1bbzSODb&p=1" alt="cover" />
 </div>
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>, I'm Mickael Asseline (Alias PAPAMICA)</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Mickael Asseline (Alias PAPAMICA)</h1>
 <p align="center">
   <a href="https://papamica.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+Wiki-Tech.io;"></a>
 </p>
@@ -16,7 +16,8 @@
     </br> </br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
 </p>  
-<p align="right"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="papamica" /></p>
+
+<img align="right" width="49%" alt="" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 <h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
   
@@ -40,13 +41,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <div align="center">
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> </h2>
 
 <a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/PAPAMICA_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael_Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
  </br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width="3%"> </h2>
 
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
@@ -92,7 +93,7 @@
 
 <br>
 
-<h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s" width = 32px> </h2>
+<h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s"  width="5%"> </h2>
 <p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
