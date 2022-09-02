@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://send.papamica.fr/f.php?h=1bbzSODb&p=1" alt="cover" />
+<img width="100%" height = "100%" src="https://img.papamica.com/logo/infomaniak_header.png" alt="cover" />
 </div>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Mickael Asseline (Alias PAPAMICA)</h1>
@@ -20,7 +20,7 @@
 
 
 <h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
-<img align="right" width="50%" alt="" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />  
+<img align="right" width="50%" alt="" src="https://img.papamica.com/logo/git_coding_animation.gif" />  
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
   
 - 🔭 I’m currently working on [Wiki-Tech](https://wiki-tech.io)  
