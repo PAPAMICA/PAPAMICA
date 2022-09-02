@@ -18,9 +18,9 @@
 </p>  
 
 
-
-<h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
 <img align="right" width="50%" alt="" src="https://img.papamica.com/logo/git_coding_animation.gif" />  
+<h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
+
 - 🌱 I’m currently learning **OpenStack, K8s and Python**  
   
 - 🔭 I’m currently working on [Wiki-Tech](https://wiki-tech.io)  
