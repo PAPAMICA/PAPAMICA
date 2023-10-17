@@ -8,13 +8,15 @@
 </p>
 
 <p align="center"> <a href="https://twitter.com/papamica__" target="blank">
-<img src="https://img.shields.io/twitter/follow/papamica__?logo=twitter&style=for-the-badge" alt="papamica__" /></a> 
+<img src="https://img.shields.io/twitter/follow/papamica__?logo=x&style=for-the-badge" alt="papamica__" /></a> 
+<a href="https://github.com/PAPAMICA" target="blank">
+<img src="https://img.shields.io/github/followers/PAPAMICA?label=Followers Github&style=for-the-badge" alt="papamica__" /></a>
 <a href="https://github.com/PAPAMICA" target="blank">
 <img src="https://img.shields.io/github/stars/PAPAMICA?label=%E2%AD%90%20Github&style=for-the-badge" alt="papamica__" /></a>
 <a href="https://www.youtube.com/c/PAPAMICA" target="blank">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCRfh_cUHWYCDpQ64lp8l2Sg?logo=youtube&style=for-the-badge"></a>
     </br> </br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="papamica" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true&rank=-C" alt="papamica" /></a> 
 </p>  
 
 
@@ -32,8 +34,6 @@
 - 💬 Ask me about **Zabbix, Docker, Grafana, etc..**  
   
 - 📫 How to reach me **mickael@papamica.com**  
-  
-- 📄 Know about my experiences [mickaelasseline.com](https://mickaelasseline.com)  
  
 
  </br></br>
@@ -43,7 +43,7 @@
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30"> </h2>
 
-<a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/PAPAMICA_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael_Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/PAPAMICA_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael_Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
  </br>
 
@@ -96,6 +96,6 @@
 <h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s"  width="5%"> </h2>
 <p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
 
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PAPAMICA.PAPAMICA" alt="papamica" />
+<img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FPAPAMICA%2FPAPAMICA.json%3Fcolor%3Dblue&style=for-the-badge" alt="papamica" />
 </div>
  
