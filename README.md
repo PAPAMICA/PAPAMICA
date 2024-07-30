@@ -27,7 +27,7 @@
   
 - 🔭 I’m currently working on [Wiki-Tech](https://wiki-tech.io)  
   
-- 👨‍💻 All of my projects are available at [papamica.com](https://papamica.com)  
+- 👨‍💻 All of my projects and my resume are available at [mickaelasseline.com](https://mickaelasseline.com)  
   
 - 📝 I regularly write articles on [tech2tech.fr](https://tech2tech.fr)  
   
