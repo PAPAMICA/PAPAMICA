@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://send.papamica.com/f.php?h=06CGiE_6&d=1" alt="cover" />
+<img width="100%" height = "100%" src="https://send.papamica.com/f.php?h=0GqtSm2Q&d=1" alt="cover" />
 </div>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Mickael Asseline (Alias PAPAMICA)</h1>
@@ -49,160 +49,153 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30"> </h2>
 
-<h3>Advanced Skills</h3>
-<p style="font-style: italic; color: #666;"><i>Technologies I've mastered, enabling complex problem-solving, optimization, and innovation.</i></p>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/linux.png" alt="Linux" height="60" width="60">
-        <p>Linux</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/zabbix.png" alt="Zabbix" height="60" width="60">
-        <p>Zabbix</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/grafana.png" alt="Grafana" height="60" width="60">
-        <p>Grafana</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/docker.png" alt="Docker" height="60" width="60">
-        <p>Docker</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/bash.png" alt="Bash" height="60" width="60">
-        <p>Bash</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/wordpress.png" alt="WordPress" height="60" width="60">
-        <p>WordPress</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/windows.png" alt="Windows" height="60" width="60">
-        <p>Windows</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/macos.png" alt="MacOS" height="60" width="60">
-        <p>MacOS</p>
-    </div>
-</div>
+<h3> Advanced </h3>
+<p><i>Full mastery, ability to solve complex problems, optimize, automate, and innovate.</i></p>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/linux.png" alt="Linux" height="60" width="60"><br>
+            <strong>Linux</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/zabbix.png" alt="Zabbix" height="60" width="60"><br>
+            <strong>Zabbix</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/grafana.png" alt="Grafana" height="60" width="60"><br>
+            <strong>Grafana</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/docker.png" alt="Docker" height="60" width="60"><br>
+            <strong>Docker</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/bash.png" alt="Bash" height="60" width="60"><br>
+            <strong>Bash</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/wordpress.png" alt="WordPress" height="60" width="60"><br>
+            <strong>WordPress</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/windows.png" alt="Windows" height="60" width="60"><br>
+            <strong>Windows</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/macos.png" alt="MacOS" height="60" width="60"><br>
+            <strong>MacOS</strong>
+        </td>
+    </tr>
+</table>
 
-<h3>Proficient Skills</h3>
-<p style="font-style: italic; color: #666;"><i>Technologies I work with efficiently, occasionally referring to documentation.</i></p>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/python.png" alt="Python" height="60" width="60">
-        <p>Python</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/git.png" alt="Git" height="60" width="60">
-        <p>Git</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/docker.png" alt="Docker" height="60" width="60">
-        <p>Docker</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/openstack.png" alt="OpenStack" height="60" width="60">
-        <p>OpenStack</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/proxmox.png" alt="Proxmox" height="60" width="60">
-        <p>Proxmox</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/esxi.png" alt="ESXi" height="60" width="60">
-        <p>ESXi</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/ansible.png" alt="Ansible" height="60" width="60">
-        <p>Ansible</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/terraform.png" alt="Terraform" height="60" width="60">
-        <p>Terraform</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/traefik.png" alt="Traefik" height="60" width="60">
-        <p>Traefik</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/loki.png" alt="Loki" height="60" width="60">
-        <p>Loki</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/prometheus.png" alt="Prometheus" height="60" width="60">
-        <p>Prometheus</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/html5.png" alt="HTML5" height="60" width="60">
-        <p>HTML5</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/css3.png" alt="CSS3" height="60" width="60">
-        <p>CSS3</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/office.png" alt="Office" height="60" width="60">
-        <p>Office</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/gitlab.png" alt="Gitlab" height="60" width="60">
-        <p>Gitlab</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/network.png" alt="Network" height="60" width="60">
-        <p>Network</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/rundeck.png" alt="Rundeck" height="60" width="60">
-        <p>Rundeck</p>
-    </div>
-</div>
+<h3 align="center"> Proficient </h3>
+<p align="center"><i>Good command, able to work efficiently with occasional research if needed.</i></p>
 
-<h3>Learning Skills</h3>
-<p style="font-style: italic; color: #666;"><i>Technologies I'm currently exploring and developing proficiency in.</i></p>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/puppet.png" alt="Puppet" height="60" width="60">
-        <p>Puppet</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/salt.png" alt="Salt" height="60" width="60">
-        <p>Salt</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/vault.png" alt="Vault" height="60" width="60">
-        <p>Vault</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/elk.png" alt="ELK" height="60" width="60">
-        <p>ELK</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/k8s.png" alt="K8s" height="60" width="60">
-        <p>K8s</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/aws.png" alt="AWS" height="60" width="60">
-        <p>AWS</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/azure.png" alt="Azure" height="60" width="60">
-        <p>Azure</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/gcp.png" alt="GCP" height="60" width="60">
-        <p>GCP</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/jenkins.png" alt="Jenkins" height="60" width="60">
-        <p>Jenkins</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.papamica.com/stickers/powershell.png" alt="Powershell" height="60" width="60">
-        <p>Powershell</p>
-    </div>
-</div>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/python.png" alt="Python" height="60"><br>
+            <strong>Python</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/git.png" alt="Git" height="60"><br>
+            <strong>Git</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/docker.png" alt="Docker" height="60"><br>
+            <strong>Docker</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/openstack.png" alt="OpenStack" height="60"><br>
+            <strong>OpenStack</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/proxmox.png" alt="Proxmox" height="60"><br>
+            <strong>Proxmox</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/esxi.png" alt="ESXi" height="60"><br>
+            <strong>ESXi</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/ansible.png" alt="Ansible" height="60"><br>
+            <strong>Ansible</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/terraform.png" alt="Terraform" height="60"><br>
+            <strong>Terraform</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/traefik.png" alt="Traefik" height="60"><br>
+            <strong>Traefik</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/loki.png" alt="Loki" height="60"><br>
+            <strong>Loki</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/prometheus.png" alt="Prometheus" height="60"><br>
+            <strong>Prometheus</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/html5.png" alt="HTML5" height="60"><br>
+            <strong>HTML5</strong>
+        </td>
+    </tr>
+</table>
+
+<h3 align="center"> Beginner </h3>
+<p align="center"><i>Basic knowledge, but requires documentation or practice to be fully autonomous.</i></p>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/puppet.png" alt="Puppet" height="60"><br>
+            <strong>Puppet</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/salt.png" alt="Salt" height="60"><br>
+            <strong>Salt</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/vault.png" alt="Vault" height="60"><br>
+            <strong>Vault</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/elk.png" alt="ELK" height="60"><br>
+            <strong>ELK</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/kubernetes.png" alt="Kubernetes" height="60"><br>
+            <strong>Kubernetes</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/aws.png" alt="AWS" height="60"><br>
+            <strong>AWS</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/azure.png" alt="Azure" height="60"><br>
+            <strong>Azure</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/gcp.png" alt="GCP" height="60"><br>
+            <strong>GCP</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/jenkins.png" alt="Jenkins" height="60"><br>
+            <strong>Jenkins</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/powershell.png" alt="Powershell" height="60"><br>
+            <strong>Powershell</strong>
+        </td>
+    </tr>
+</table>
+
 
 
   </br>
