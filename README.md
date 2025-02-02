@@ -70,6 +70,12 @@
             <strong>Docker</strong>
         </td>
         <td align="center">
+            <img src="https://img.papamica.com/stickers/docker-compose.png" alt="Docker Compose" height="60" width="60"><br>
+            <strong>Compose</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
             <img src="https://img.papamica.com/stickers/bash.png" alt="Bash" height="60" width="60"><br>
             <strong>Bash</strong>
         </td>
@@ -102,10 +108,6 @@
             <strong>Git</strong>
         </td>
         <td align="center">
-            <img src="https://img.papamica.com/stickers/docker.png" alt="Docker" height="60"><br>
-            <strong>Docker</strong>
-        </td>
-        <td align="center">
             <img src="https://img.papamica.com/stickers/openstack.png" alt="OpenStack" height="60"><br>
             <strong>OpenStack</strong>
         </td>
@@ -117,12 +119,12 @@
             <img src="https://img.papamica.com/stickers/esxi.png" alt="ESXi" height="60"><br>
             <strong>ESXi</strong>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.papamica.com/stickers/ansible.png" alt="Ansible" height="60"><br>
             <strong>Ansible</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.papamica.com/stickers/terraform.png" alt="Terraform" height="60"><br>
             <strong>Terraform</strong>
@@ -143,12 +145,12 @@
             <img src="https://img.papamica.com/stickers/gitlab.png" alt="Gitlab" height="60" width="60">
             <p>Gitlab</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.papamica.com/stickers/html5.png" alt="HTML5" height="60"><br>
             <strong>HTML5</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.papamica.com/stickers/css3.png" alt="CSS3" height="60" width="60">
             <p>CSS3</p>
