@@ -50,7 +50,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30"> </h2>
 
 <h3> Advanced </h3>
-<p><i>Full mastery, ability to solve complex problems, optimize, automate, and innovate.</i></p>
+<p><i>Mastery, ability to solve complex problems, optimize, automate, and innovate.</i></p>
 <table align="center">
     <tr>
         <td align="center">
@@ -140,8 +140,30 @@
             <strong>Prometheus</strong>
         </td>
         <td align="center">
+            <img src="https://img.papamica.com/stickers/gitlab.png" alt="Gitlab" height="60" width="60">
+            <p>Gitlab</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
             <img src="https://img.papamica.com/stickers/html5.png" alt="HTML5" height="60"><br>
             <strong>HTML5</strong>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/css3.png" alt="CSS3" height="60" width="60">
+            <p>CSS3</p>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/office.png" alt="Office" height="60" width="60">
+            <p>Office</p>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/network.png" alt="Network" height="60" width="60">
+            <p>Network</p>
+        </td>
+        <td align="center">
+            <img src="https://img.papamica.com/stickers/rundeck.png" alt="Rundeck" height="60" width="60">
+            <p>Rundeck</p>
         </td>
     </tr>
 </table>
